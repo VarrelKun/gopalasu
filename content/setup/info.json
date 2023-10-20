@@ -1,7 +1,7 @@
 {
-  "sitename": "Bael",
+  "sitename": "GOPALASU",
   "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "siteicon": "/images/uploads/14th.jpg",
   "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
@@ -21,5 +21,6 @@
       "position": "3",
       "link": "https://www.netlify.com/"
     }
-  ]
+  ],
+  "linkcolor": "#f7f7f7"
 }
