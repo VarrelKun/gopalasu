@@ -1,7 +1,8 @@
 ---
-  title: My House Title Sequence
-  date: Tuesday July 17th, 2018
-  category: Design
+title: My House Title Sequence
+date: Tuesday July 17th, 2018
+thumbnail: /images/uploads/baeltype.png
+category: Design
 ---
 
 <iframe src="https://player.vimeo.com/video/264297998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
